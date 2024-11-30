@@ -1,0 +1,4 @@
+Adopted Pets:
+Name: Scabbers, Health: 100, Happiness: 100
+Name: Creo, Health: 120, Happiness: 120
+Name: Hippo, Health: 100, Happiness: 100

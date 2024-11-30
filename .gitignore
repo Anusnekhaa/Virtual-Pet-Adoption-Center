@@ -1,0 +1,10 @@
+*.o
+*.obj
+*.exe
+*.dll
+bin/
+obj/
+Debug/
+Release/
+*.depend
+*.layout
